@@ -1,0 +1,19 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <EditTextPreference
+        app:key="pattern"
+        app:title="@string/pattern"
+        app:useSimpleSummaryProvider="true" />
+    <SwitchPreferenceCompat
+        app:defaultValue="true"
+        app:key="auto_select"
+        app:title="@string/auto_select" />
+    <Preference
+        app:key="select_now"
+        app:title="@string/select_now" />
+    <Preference
+        app:key="note_text"
+        app:persistent="false"
+        app:selectable="false"
+        app:summary="@string/note_text" />
+</PreferenceScreen>

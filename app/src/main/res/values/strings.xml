@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phone SIM Card Selector</string>
+
+    <string name="pattern">Pattern</string>
+    <string name="auto_select">Auto select</string>
+    <string name="select_now">Select now</string>
+    <string name="note_text">Note: This app must be installed as a system priv-app.</string>
+    <string name="permission_denied">Permission denied.</string>
+    <string name="sim_card_not_found">SIM card not found.</string>
+    <string name="card_selected">Selected: %s</string>
+</resources>

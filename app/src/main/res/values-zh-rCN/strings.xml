@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">通话 SIM 卡选择</string>
+    <string name="pattern">模式</string>
+    <string name="auto_select">自动选择</string>
+    <string name="select_now">立即选择</string>
+    <string name="note_text">注意：此应用必须安装为系统 priv-app。</string>
+    <string name="permission_denied">没有权限。</string>
+    <string name="sim_card_not_found">找不到 SIM 卡。</string>
+    <string name="card_selected">已选择：%s</string>
+</resources>
